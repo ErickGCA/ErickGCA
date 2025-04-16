@@ -76,7 +76,7 @@
 #### 🛠️ Other Skills
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" />
-<img src="https://img.shields.io/badge/Embedded_Systems-blue?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="25" alt="Embedded Systems Badge" />
+<img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=raspberry-pi&logoColor=white" width="40" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" />
