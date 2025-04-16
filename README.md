@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/Embedded%20Systems-blue?style=for-the-badge&logo=raspberrypi&logoColor=white" height="25" />  consegue fazer todos nesse estilo? é masi facil de ler ao invés da logo
-
 <h1 align="center">What's up! I'm Érick Gonçalves Cabral </h1>
 <h3 align="center">Transforming data into stories</h3>
 
@@ -78,7 +76,7 @@
 #### 🛠️ Other Skills
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-blue?style=for-the-badge&logo=raspberrypi&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Embedded_Systems-blue?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="25" alt="Embedded Systems Badge" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" />
