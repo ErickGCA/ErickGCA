@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Érick Gonçalves Cabral</h1>
+<h1 align="center">What's up! I'm Érick Gonçalves Cabral</h1>
 <h3 align="center">Transforming data into stories!</h3>
 
 - I’m currently working on [Data Pipeline News](https://github.com/ErickGCA/data-pipeline-news.git)
