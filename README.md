@@ -1,5 +1,5 @@
-<h1 align="center">What's up! I'm Érick Gonçalves Cabral 👋</h1>
-<h3 align="center">Transforming data into stories 🚀</h3>
+<h1 align="center">What's up! I'm Érick Gonçalves Cabral </h1>
+<h3 align="center">Transforming data into stories </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/erick-cabralgca/" target="_blank">
@@ -15,26 +15,26 @@
 
 ---
 
-### 💡 About Me
+###  About Me
 
-🎓 I'm a Data Engineering student passionate about transforming raw data into meaningful insights.  
-🛠️ Currently working on a project called [Data Pipeline News](https://github.com/ErickGCA/data-pipeline-news.git)  
-🌱 Learning all things **Data Engineering**, including **AWS**, **GCP**, and **Streaming with Kafka**  
-💬 Feel free to ask me about **Python, Java, React, or building data pipelines**  
-📫 Reach me at **erickgcabral@gmail.com**
+I'm a Data Engineering student passionate about transforming raw data into meaningful insights.  
+Currently working on a project called [Data Pipeline News](https://github.com/ErickGCA/data-pipeline-news.git)  
+Learning all things **Data Engineering**, including **AWS**, **GCP**, and **Streaming with Kafka**  
+Feel free to ask me about **Python, Java, React, or building data pipelines**  
+Reach me at **erickgcabral@gmail.com**
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 
-#### 💻 Programming
+#### Programming
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
-#### ☁️ Cloud & DevOps
+#### Cloud & DevOps
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
@@ -42,7 +42,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
 </p>
 
-#### 📊 Data & Databases
+#### Data & Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
@@ -51,7 +51,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
 </p>
 
-#### 🌐 Frontend & Frameworks
+#### Frontend & Frameworks
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" />
@@ -59,7 +59,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
 </p>
 
-#### 🎨 Design & Others
+#### Design & Others
 <p>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
@@ -69,7 +69,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErickGCA&show_icons=true&theme=radical" width="48%" />
@@ -78,4 +78,4 @@
 
 ---
 
-### 🚀 Let's build data-driven things together!
+###  Let's build data-driven things together!
