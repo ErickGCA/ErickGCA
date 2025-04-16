@@ -76,7 +76,7 @@
 #### 🛠️ Other Skills
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Embedded_systems.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Platformio_logo.svg" width="40" title="PlatformIO" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" />
