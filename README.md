@@ -82,7 +82,7 @@ Aqui estão alguns projetos nos quais trabalhei e que demonstram minhas habilida
    - Criei um sistema em Python que coleta notícias da web, aplica filtros e um sistema de ranking para identificar acidentes de trânsito envolvendo álcool. Os dados processados são enviados automaticamente para o Amazon S3 e Postgres.
    - *Tecnologias Principais:* Python, Pandas, RegEx, Airflow, Docker, Postgres, SQL, AWS S3, Boto3.
 
-**4. PGCBW_Analyzer
+**4. PGCBW_Analyzer**
   - Desenvolvi um pipeline ELT em Python que coleta dados referente ao caminho percorrido entre as cidades de Ponta Grossa e Curitiba no Paraná, com objetivo de prever através de Machine Learning qual o melhor dia e horário para viajar durante a semana.
   - *Tecnologias Principais:* Python, Pandas, Airflow, Docker, Postgres.
 **3. Leitor de Gabarito Automático**
