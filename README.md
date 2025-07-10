@@ -12,7 +12,7 @@
 
 ### Sobre Mim
 
-- Estudante de Engenharia de Computação na UEPG (Universidade Estadual de Ponta Grossa), com previsão de formatura em Dezembro/2025.
+- Estudante de Engenharia de Computação na UEPG (Universidade Estadual de Ponta Grossa);
 - Atuei como Desenvolvedor Full-Stack na Prefeitura de Quatiguá, onde fui responsável pelo desenvolvimento de um sistema completo para a Secretaria de Assistência Social, otimizando processos e gerando relatórios analíticos.
 - Sou apaixonado por Engenharia de Dados, por transformar dados brutos em insights valiosos e por construir pipelines de dados eficientes.
 - Buscando constantemente aprimorar minhas habilidades em plataformas de nuvem como AWS e GCP, e explorando tecnologias de streaming com Kafka e Spark.
