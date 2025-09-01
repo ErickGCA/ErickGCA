@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou Érick Gonçalves Cabral </h1>
-<h3 align="center">Engenheiro de Computação | Desenvolvedor Full-Stack | Entusiasta de Dados</h3>
+<h3 align="center">Engenheiro de Computação | Desenvolvedor Full-Stack </h3>
 <p align="center"><em>Transformando dados em história!</em></p>
 
 <p align="center">
