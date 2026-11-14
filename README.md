@@ -3,48 +3,48 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/erick-cabralgca/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:erick.cabral125@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:erick.cabral125@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### Sobre mim
+### About me
 
-Sou Software Engineer com foco em backend e arquitetura de software. Trabalho no desenvolvimento e na evolução de APIs, microsserviços e sistemas distribuídos. Minha principal stack é Java e Spring Boot, complementada por NestJS e React.
+I'm a Software Engineer focused on backend and software architecture. I build and evolve APIs, microservices and distributed systems. My main stack is Java and Spring Boot, complemented by NestJS and React.
 
-Hoje atuo em sistemas de controle de acesso usados por empresas de grande porte. Isso vai da gestão documental de terceiros e da integração com equipamentos físicos, como catracas e crachás, até observabilidade, análise de performance e resposta a incidentes em produção. Gosto de participar do ciclo inteiro: da definição técnica à evolução da solução depois que ela está rodando.
+Today I work on access control systems used by large companies. That ranges from third-party document management and integration with physical equipment, such as turnstiles and badges, to observability, performance analysis and incident response in production. I like to take part in the whole cycle: from the technical definition to evolving the solution once it is running.
 
-Tenho interesse especial na evolução do ecossistema Java, principalmente em concorrência, performance e design de sistemas. Também uso inteligência artificial no dia a dia de desenvolvimento e acompanho de perto a pesquisa na área: no LinkedIn, publico explicações de papers sobre IA para quem é da área técnica.
+I have a special interest in the evolution of the Java ecosystem, mainly concurrency, performance and system design. I also use artificial intelligence in my daily development work and follow the research closely: on LinkedIn, I publish explanations of AI papers for a technical audience.
 
-- 📍 Ponta Grossa, Paraná, Brasil
-- 🎓 Engenharia de Computação, Universidade Estadual de Ponta Grossa (2021–2025)
-- 🏆 3º lugar no Startup Weekend
-
----
-
-### Experiência
-
-**Software Engineer · wehandle** (set/2025 – atual)
-
-Time de Gestão de Terceiros, responsável pelos módulos de Acessos. Java (Spring Boot) e NestJS, da arquitetura e do design à operação em produção.
-
-- **Módulo de Acessos:** conduzi a refatoração completa do antigo módulo de Portaria, redesenhando como a entrada de terceiros nas unidades dos clientes é controlada.
-- **Crachás e catracas:** controle de acesso físico baseado em gestão documental, liberando a entrada conforme a situação dos documentos.
-- **Calendário e Integração:** refatoração completa de dois módulos, reduzindo o TTV de 1 semana para 24 horas.
-- **Observabilidade, performance e IA:** agentes de IA para apoiar análises de performance e canais de alerta para identificar incidentes proativamente.
-- **Sustentação:** atuação direta em incidentes críticos e bugs em produção, da investigação à correção.
-
-**Full-stack Developer · MMTech** (ago/2025 – set/2025)
-
-Sustentação e evolução de sistemas monolíticos de grande porte no braço de tecnologia de uma das maiores redes varejistas do Paraná.
-
-**Full-stack Developer · Prefeitura Municipal de Quatiguá** (fev/2024 – dez/2024)
-
-Solução full-stack para a Secretaria de Assistência Social, com redução de mais de 70% no tempo de processamento manual de dados. Back-end em Java (Spring Boot) e Node.js com Spring Security, front-end em React e Tailwind CSS, PostgreSQL, Docker e CI/CD com GitHub Actions.
+- 📍 Ponta Grossa, Paraná, Brazil
+- 🎓 Computer Engineering, Universidade Estadual de Ponta Grossa (2021–2025)
+- 🏆 3rd place at Startup Weekend
 
 ---
 
-### Tecnologias
+### Experience
+
+**Software Engineer · wehandle** (Sep 2025 – present)
+
+Third-Party Management team, responsible for the Access modules. Java (Spring Boot) and NestJS, from architecture and design to operation in production.
+
+- **Access module:** led the complete refactoring of the former gatehouse module, redesigning how third-party entry into client sites is controlled.
+- **Badges and turnstiles:** physical access control driven by document management, granting entry according to the status of each person's documents.
+- **Calendar and Onboarding:** complete refactoring of two modules, cutting TTV from 1 week to 24 hours.
+- **Observability, performance and AI:** AI agents to support performance analysis and alert channels to detect incidents proactively.
+- **Production support:** hands-on work on critical incidents and production bugs, from investigation to fix.
+
+**Full-stack Developer · MMTech** (Aug 2025 – Sep 2025)
+
+Maintenance and evolution of large monolithic systems at the technology arm of one of the largest retail chains in Paraná.
+
+**Full-stack Developer · Quatiguá City Hall** (Feb 2024 – Dec 2024)
+
+Full-stack solution for the Social Assistance Department, reducing manual data processing time by more than 70%. Back end in Java (Spring Boot) and Node.js with Spring Security, front end in React and Tailwind CSS, PostgreSQL, Docker and CI/CD with GitHub Actions.
+
+---
+
+### Technologies
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -65,16 +65,16 @@ Solução full-stack para a Secretaria de Assistência Social, com redução de 
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-APIs REST, microsserviços e sistemas distribuídos · arquitetura orientada a eventos · observabilidade e análise de performance · visão computacional (YOLO)
+REST APIs, microservices and distributed systems · event-driven architecture · observability and performance analysis · computer vision (YOLO)
 
 ---
 
-### Projetos
+### Projects
 
 **[histocel](https://github.com/ErickGCA/histocel)** · Python
 
-Ferramenta de linha de comando, de código aberto, para treinar e usar modelos que contornam, classificam e contam células em imagens de microscopia. Cada pessoa usa os próprios dados: importa anotações (COCO, YOLO-seg, QuPath), monta o dataset, treina, analisa lâminas inteiras e avalia o modelo em lâminas de teste, com erro de contagem e intervalo de confiança.
+Open-source command line tool to train and use models that outline, classify and count cells in microscopy images. You bring your own data: import annotations (COCO, YOLO-seg, QuPath), build the dataset, train, analyse whole slides and grade the model on held-out test slides, with counting error and confidence intervals.
 
 **[virtual-threads](https://github.com/ErickGCA/virtual-threads)** · Java
 
-Experimento prático comparando as Virtual Threads do Java (JDK 21, Projeto Loom) com as Platform Threads em cargas limitadas por I/O e por CPU, com código, resultados e um artigo em LaTeX.
+Hands-on experiment comparing Java Virtual Threads (JDK 21, Project Loom) with Platform Threads under I/O-bound and CPU-bound workloads, with code, results and a LaTeX write-up.
